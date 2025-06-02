@@ -17,4 +17,4 @@ This project is a simple e-commerce web application built with React.js. It allo
 - **State Management**: React Context API for managing global state.
 - **Styling**: CSS modules for scoped and maintainable styles.
 
-[##Demo](https://astonishing-daifuku-679fba.netlify.app/)
+[Demo](https://astonishing-daifuku-679fba.netlify.app/)
